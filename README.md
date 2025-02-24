@@ -23,5 +23,6 @@ Hi, I'm [Farwa], a Multimedia Design student in Copenhagen, Denmark. I specializ
 [![](https://visitcount.itsvg.in/api?id=farwa110&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-https://github-readme-activity-graph.vercel.app/graph?username=farwa110&theme=github-dark
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farwa110&theme=github-dark)
+
 
