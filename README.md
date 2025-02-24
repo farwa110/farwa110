@@ -1,11 +1,4 @@
 
-
-
-
-- 🔭 I’m currently working on learning Java -script ...
-- 🌱 I’m currently learning java-script, react and next js...
-- 😄 Pronouns: ... cool , helpful , polite and consitent.
-- ⚡ Fun fact: ... i was a bilologi student before :D
 # 💫 About Me:
 Hi, I'm [Farwa], a Multimedia Design student in Copenhagen, Denmark. I specialize in HTML, CSS, JavaScript, React, Astro, and Next.js, combining technical skills with UX, UI, and design principles to create sustainable and innovative web solutions.<br><br>I'm deepening my knowledge of JavaScript and its frameworks, constantly exploring ways to write cleaner, more efficient code. Passionate about frontend development and user-centric design, I strive to build engaging, accessible, and visually compelling web experiences.<br><br>🚀 Always eager to learn and collaborate—let's connect!
 
