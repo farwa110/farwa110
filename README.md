@@ -1,6 +1,6 @@
 Hi there! 👋
 # 💫 About Me:
-Hi, I'm [Farwa], a Multimedia-Designer student from KEA Copenhagen, Denmark. I specialize in HTML, CSS, JavaScript, React, Astro, and Next.js, combining technical skills with UX, UI, and design principles to create sustainable and innovative web solutions.<br><br>I'm deepening my knowledge of JavaScript and its frameworks, constantly exploring ways to write cleaner, more efficient code. Passionate about frontend development and user-centric design, I strive to build engaging, accessible, and visually compelling web experiences.<br><br>🚀 Always eager to learn and collaborate—let's connect!
+Hi, I'm Farwa, a Multimedia-Designer student from KEA Copenhagen, Denmark. I specialize in HTML, CSS, JavaScript, React, Astro, and Next.js, combining technical skills with UX, UI, and design principles to create sustainable and innovative web solutions.<br><br>I'm deepening my knowledge of JavaScript and its frameworks, constantly exploring ways to write cleaner, more efficient code. Passionate about frontend development and user-centric design, I strive to build engaging, accessible, and visually compelling web experiences.<br><br>🚀 Always eager to learn and collaborate—let's connect!
 
 
 # 💻 Tech Stack:
