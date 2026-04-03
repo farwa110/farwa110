@@ -3,7 +3,7 @@
 ### Frontend-Focused Full-Stack Developer  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&pause=1000&color=7C3AED&width=700&lines=Frontend-Focused+Full-Stack+Developer;Building+modern+and+user-centered+web+apps)](https://git.io/typing-svg)
 📍 Copenhagen, Denmark  
-🌐 [Portfolio](https://farwa-frontenddeveloper.vercel.app)
+
 
 ---
 
