@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Farwa
 
 ### Frontend-Focused Full-Stack Developer
+📍 Copenhagen, Denmark
 #  About Me:
 I’m a frontend-focused full-stack developer passionate about building clean, accessible, and user-centered web applications.
 I work with HTML, CSS, JavaScript, React, Astro, and Next.js, and I continuously improve my skills to write efficient, scalable, and maintainable code.
